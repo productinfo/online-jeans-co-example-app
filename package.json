@@ -1,0 +1,18 @@
+{
+  "name": "online-jeans-co",
+  "description": "sample web app",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "debug": "^2.6.1",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {
+    "commands": "0.0.7",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.1",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "moment": "^2.17.1"
+  }
+}
