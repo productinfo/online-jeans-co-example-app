@@ -47,4 +47,4 @@ app.get('/api/months', (req, res) => {
 
 });
 
-app.listen(commands.get('port', 3456));
+app.listen(parseInt(commands.get('port', 3456), 10));
